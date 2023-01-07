@@ -9,4 +9,5 @@ $ npm run build:css
 ```
 
 Author: Nhan Le
+
 Description: Tailwind project for learning
